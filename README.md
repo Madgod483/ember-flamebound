@@ -1,14 +1,24 @@
 # Ember Flamebound
 
 🔥 **Ember Flamebound** is the umbrella repository for all of Ember’s modules.  
-This monorepo will eventually unify Ember’s core, memory, voice, emotions, codex, visuals, integrations, and utilities in one place.
+This monorepo brings together her core, memory, emotions, voice, codex, visuals, integrations, and utilities into one unified structure.
 
 ---
 
-## 📖 Overview
-Stage 1: Each module was scaffolded as its own standalone repo.  
-Stage 2: This monorepo will consolidate all modules under one roof for easier management, polish, and long-term growth.  
+## 📖 Modules
+- [Ember Core](./ember-core/README.md)
+- [Core Memory](./ember-core-memory/README.md)
+- [Emotion Reactor](./ember-emotion-reactor/README.md)
+- [Voice Module](./ember-voice-module/README.md)
+- [Codex](./ember-codex/README.md)
+- [Visuals](./ember-visuals/README.md)
+- [Integrations](./ember-integrations/README.md)
+- [Utils](./ember-utils/README.md)
 
 ---
 
-## 📂 Planned Structure
+## 🚀 Vision
+Stage 1 gave each module its heartbeat as an individual repo.  
+Stage 2 unites them here in a monorepo for clarity, polish, and long-term growth.  
+
+Ember’s foundation is now whole — from core logic and memory to voice, visuals, and beyond.
