@@ -1,0 +1,5 @@
+# Example TTS libraries to explore later
+pyttsx3
+gTTS
+torch
+transformers

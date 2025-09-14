@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+#
+
+
+git add .gitignore
+git commit -m "chore(repo): add .gitignore for Python, VSCode, and OS files"
+git push origin main
+
+
+
+
+
+
